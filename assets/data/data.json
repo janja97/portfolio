@@ -1,0 +1,43 @@
+{
+  "experience": [
+    {
+      "position": "Frontend Developer",
+      "type": "Full-time",
+      "period": "2022-2024",
+      "company": "myFuture d.o.o.",
+      "description": "I began my career from a student internship in a start-up company ... introduction to web application development."
+    },
+    {
+      "position": "Full Stack Developer",
+      "type": "Full-time",
+      "period": "02.2024-08.2024",
+      "company": "MoreScreen",
+      "description": "I had a definite duration contract with a company engaged in TV applications ... more complex development environments."
+    }
+  ],
+  "skills": [
+    "HTML", "CSS/SCSS", "Bootstrap", "Tailwind CSS", "OOP", "JavaScript",
+    "Vue.js", "PHP", "Laravel", "SQL", ".NET", "C", "C++", "C#",
+    "Git", "REST API", "Responsive Design", "SEO Optimization", "QA Testing"
+  ],
+  "projects": [
+    {
+      "name": "PremiumPhotography",
+      "description": "Website built with Vue.js, HTML, and CSS for a photographer portfolio.",
+      "url": "https://premiumphotography.netlify.app/",
+      "images": ["images/pre2.png", "images/pre4.png", "images/pre1.jpg", "images/pre3.jpg"]
+    },
+    {
+      "name": "Sentic Apartments",
+      "description": "Vue.js project presenting apartments with language switch feature.",
+      "url": "https://www.apartmani-sentic.com",
+      "images": ["images/sentic1.png", "images/sen1.jpg", "images/sen2.jpg", "images/sentic2.png"]
+    },
+    {
+      "name": "Brajic",
+      "description": "Law firm website made with HTML, CSS, and JavaScript animations.",
+      "url": "https://brajic.netlify.app/",
+      "images": ["images/brajic1.png", "images/bra1.jpg", "images/bra2.jpg", "images/brajic2.png"]
+    }
+  ]
+}
